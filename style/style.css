@@ -1,0 +1,34 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+img.image {
+    width: 130px;
+    display: flow-root;
+}
+.btn {
+    display: flow-root;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 74px;
+}
+h3#Result {
+    margin: 47px;
+}
+
+h2#title {
+    display: flex;
+    justify-content: center;
+}
+b {
+    margin-left: 5px;
+}
+h3#Computer-choice {
+    margin: 47px;
+}
+h3#Your-choice {
+    margin: 47px;
+}
